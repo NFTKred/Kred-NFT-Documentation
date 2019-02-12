@@ -8,7 +8,7 @@ This guide shows how you build your own app using the Coin.Kred API.
 Our home view is the Explore tab.   We've created this with three calls to the [/coins](https://docs.coin.kred/v1.0/reference#coins)  method, sorting respectively by likes, creation date, and circulation.  Each of these calls can be paginated, so that the groups of coins are bound to individual carousels and can be browsed by the user.
 
 <p align="center">
-  <img width="80%" src="https://files.readme.io/d79c8a4-Spacecoin.png" title="Batched coin">
+  <img width="40%" src="https://files.readme.io/d79c8a4-Spacecoin.png" title="Batched coin">
 </p>  
 
 Add and edit tags using [/tag](https://docs.coin.kred/v1.0/reference#tag)
@@ -20,7 +20,7 @@ Update metadata such as the coin description and link using [/meta](https://docs
 Specifying the batch on these API calls allows you to update all the coins in the batch that you own.
 
 <p align="center">
-  <img width="40%" src="https://files.readme.io/d5db70a-CK_Batch2.PNG" title="Batch edit">
+  <img width="80%" src="https://files.readme.io/d5db70a-CK_Batch2.PNG" title="Batch edit">
 </p>  
 
 We can give a coin from this screen, either directly to an on-platform user using [/send](https://docs.coin.kred/v1.0/reference#send) or to any user via Email, SMS, or Twitter using [/hold](https://docs.coin.kred/v1.0/reference#hold).
