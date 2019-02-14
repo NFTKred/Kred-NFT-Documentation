@@ -1,8 +1,8 @@
-### Building an App With the Kred NFT API
+## Building an App With the Kred NFT API
 
 This guide shows how you build your own app using the Kred NFT API.
 
-## Home Page
+### Home Page
 <p align="center">
   <img width="80%" src="https://files.readme.io/68ba12d-CK_Explore.PNG" title="Explore">
 </p>  
@@ -35,7 +35,7 @@ The Search Contact widget uses the SocialOS Contact API (documented separately).
 
 <br><br>
 
-## Batches and Coins
+### Batches and Coins
 
 <p align="center">
   <img width="80%" src="https://files.readme.io/f8a39eb-CK_Batch1.PNG" title="Batched View">
@@ -109,7 +109,7 @@ You can generate a public giveaway URL [/giveaway](https://docs.coin.kred/v1.0/r
 
 <br><br>
 
-## Designing and Minting Coins
+### Designing and Minting Coins
 
 From the menu, we can select Create a Coin to start the design and mint application flow.
 
@@ -194,7 +194,7 @@ A coin with an incomplete Ethereum transaction pending will have the transaction
 
 <br><br>
 
-## Sales and Auctions
+### Sales and Auctions
 
 <p align="center">
   <img width="80%" src="https://files.readme.io/656340e-CK_Sell1.PNG" title="Sell coin">
@@ -224,7 +224,7 @@ The [/marketplace](def:marketplace) call will automatically group coins for sale
 
 <br><br>
 
-## Tagging, Sorting, and Searching
+### Tagging, Sorting, and Searching
 
 <p align="center">
   <img width="80%" src="https://files.readme.io/063ee1c-CK_Tags.PNG" title="Tags">
