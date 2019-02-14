@@ -1,4 +1,6 @@
-This guide shows how you build your own app using the Coin.Kred API.
+### Building an App With the Kred NFT API
+
+This guide shows how you build your own app using the Kred NFT API.
 
 ## Home Page
 <p align="center">
